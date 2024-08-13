@@ -1,12 +1,18 @@
 ### Tools and Programs:
 [![My Skills](https://skillicons.dev/icons?i=php,python,c,mysql,linux,bash,git,github,html,css,bootstrap,vscode,postman)](https://github.com/Aminovjamshid)
 
+### My activity:
+[![Hits](https://hits.sh/github.com/AminovJamshid.svg)](https://hits.sh/github.com/AminovJamshid/)
+[![wakatime](https://wakatime.com/badge/user/f3fa33e4-63f2-46e4-882c-d9d7cf9c6d56.svg)](https://wakatime.com/@f3fa33e4-63f2-46e4-882c-d9d7cf9c6d56)
+
 [![Jamshid's GitHub stats](https://github-readme-stats.vercel.app/api?username=AminovJamshid&count_private=true&show_icons=true&theme=react)](#)
 
 [![Jamshid's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Werther&layout=compact&theme=react)](https://wakatime.com/@Werther)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AminovJamshid&layout=compact&theme=react&langs_count=7)](#)
 
+
+---
 ---
 
 ### Get in touch:
