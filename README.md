@@ -1,3 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+👋+,+I'm+Aminov+Jamshid;Who+wants+to+change+the+world;With+making+fantastic+apps!)](https://git.io/typing-svg)
+
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+👋+,+I'm+Aminov+Jamshid;Who+wants+to+change+the+world;With+making+fantastic+apps!)](https://git.io/typing-svg)
+
+
 <h1 align="center">Hi 👋, I'm Aminov Jamshid</h1>
 <h3 align="center">PHP programmer from Uzbekistan | Lifelong learner | Reader enthusiast | Professional mistake maker</h3>
 
