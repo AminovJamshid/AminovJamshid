@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Aminov Jamshid</h1>
+<h3 align="center">PHP programmer from Uzbekistan | Lifelong learner | Reader enthusiast | Professional mistake maker</h3>
+
+
 ### Tools and Programs:
 [![My Skills](https://skillicons.dev/icons?i=php,python,c,mysql,linux,bash,git,github,html,css,bootstrap,vscode,postman)](https://github.com/Aminovjamshid)
 
