@@ -24,13 +24,8 @@
 
 
 ---
-
-
+## Watch snake eating my Github contibutions
 ![snake gif](https://github.com/AminovJamshid/AminovJamshid/blob/output/github-contribution-grid-snake-dark.svg)
-
-
-
-
 ---
 
 ### Get in touch:
