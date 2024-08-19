@@ -32,3 +32,21 @@
 
 [<img align="left" alt="telegram | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />](https://t.me/Jamshid_NT)
 [<img align="left" alt="gmail | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:aminovjamshid777@gmail.com)
+---
+
+<!-- Connect with me -->
+<h3 align="center">📫 Connect with Me</h3>
+<p align="center">
+    <a href="mailto:aminovjamshid777@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://leetcode.com/u/WertherYTGEO/">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetCode&logoColor=black" alt="LeetCode">
+    </a>
+    <a href="https://www.linkedin.com/in/aminov-jamshid-890705321/"> 
+        <img src="https://img.shields.io/badge/Linkedin-FFA116?style=for-the-badge&logo=Linkedin&logoColor=black" alt="Linkedin">
+    </a>
+    <a href="https://t.me/Jamshid_NT">
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+</p>
