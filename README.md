@@ -28,12 +28,6 @@
 ![snake gif](https://github.com/AminovJamshid/AminovJamshid/blob/output/github-contribution-grid-snake-dark.svg)
 ---
 
-### Get in touch:
-
-[<img align="left" alt="telegram | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />](https://t.me/Jamshid_NT)
-[<img align="left" alt="gmail | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:aminovjamshid777@gmail.com)
----
-
 <!-- Connect with me -->
 <h3 align="center">📫 Connect with Me</h3>
 <p align="center">
