@@ -41,7 +41,7 @@
     <a href="https://www.linkedin.com/in/aminov-jamshid-890705321/"> 
         <img src="https://img.shields.io/badge/Linkedin-FFA116?style=for-the-badge&logo=Linkedin&logoColor=black" alt="Linkedin">
     </a>
-    <a href="https://t.me/Jamshid_NT">
+    <a href="https://t.me/Jamshid_swe">
         <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
 </p>
