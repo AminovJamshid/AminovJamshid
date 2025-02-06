@@ -23,10 +23,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AminovJamshid&layout=compact&theme=react&langs_count=7)](#)
 
 
+
 ---
 ## Watch snake eating my Github contibutions
 ![snake gif](https://github.com/AminovJamshid/AminovJamshid/blob/output/github-contribution-grid-snake-dark.svg)
 ---
+
 
 
 <!-- Connect with me -->
